@@ -39,7 +39,7 @@ The trained model includes:
 ---
 
 ## Status
-🚧 This repository is under active development.  
+This repository is under active development.  
 Code, scripts, and example workflows will be uploaded.
 
 ---
